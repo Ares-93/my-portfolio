@@ -56,7 +56,7 @@ export default function Home() {
         <section className="hero container">
           <div className="hero-white">
             <h1>
-              <small>Hello There, I'm</small>
+              <small>Hello There, I am</small>
               Mohammad Haider
             </h1>
             <p>
@@ -65,7 +65,7 @@ export default function Home() {
               <span>
                 {" "}
                 Experienced with back-end tools like Python and Node.js for
-                full-stack delivery. Bachelor's in Computer Science with startup
+                full-stack delivery. Bachelors in Computer Science with startup
                 experience.
               </span>
             </p>
@@ -241,13 +241,13 @@ export default function Home() {
             <div className="right-column">
               <h3>Something about me</h3>
               <p>
-                Hey, I'm Mohammad Haider, I'm a Software Engineer experienced in
+                Hey, I am Mohammad Haider, a Software Engineer experienced in
                 both Front-End & Back-End tools to bring a FullStack Experienced
-                Developer toolset to any projects. I'm interested in showing my
+                Developer toolset to any projects. I am interested in showing my
                 skills to build projects which can make an impact.
               </p>
               <p>
-                Currently I'm working on projects for non-profit organizations
+                Currently I am working on projects for non-profit organizations
                 and always looking for new projects to work on as I love
                 building websites, games and apps.
               </p>
@@ -408,7 +408,7 @@ export default function Home() {
                 idea on what I do.
               </p>
               <p>
-                Please feel free to download my resume. I'm currently on the
+                Please feel free to download my resume. I am currently on the
                 lookout for new opportunities so if you have a project that
                 needs my help please get in touch!
               </p>
@@ -425,7 +425,7 @@ export default function Home() {
                   <li className="chat-list">
                     <span className="avatar bot">AI</span>
                     <div className="message">
-                      Hey there, I'm a chatbot built to help you interact with
+                      Hey there, I am a chatbot built to help you interact with
                       this portfolio and CV. What can I do to help?
                     </div>
                   </li>
