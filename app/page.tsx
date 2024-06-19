@@ -339,7 +339,7 @@ export default function Home() {
               />
             </a>
             <a
-              href="https://space-invaders-qtyrhe90f-ariz-haiders-projects.vercel.app"
+              href="https://space-invaders-two-sepia.vercel.app"
               className="bento-item"
             >
               <Image
