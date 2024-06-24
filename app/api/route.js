@@ -1,4 +1,4 @@
-import { OpenAICleint, AzurekeyCredentials } from "@azure/openai";
+// import { OpenAICleint, AzurekeyCredentials } from "@azure/openai";
 import { NextResponse } from "next/server";
 
 const endpoint = process.env.ENDPOINT;
